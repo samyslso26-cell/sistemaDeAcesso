@@ -1,5 +1,5 @@
 body {
-    background-color: #00bfff;
+    background-color: #0915bc;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-    color: #000000;
+    color: #433838;
     font-size: 40px;
     margin-bottom: 20px;
 }

@@ -1,5 +1,5 @@
 body {
-    background-color: #ff0000bb;
+    background-color: #a51111bb;
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    color: #000000;
+    color: #523f3f;
     font-size: 40px;
     margin-bottom: 20px;
     display: flex;
